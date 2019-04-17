@@ -1,3 +1,0 @@
-<?php 
-echo '<script type="text/javascript">location.href = "index.php"</script> ';
-?>
