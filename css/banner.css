@@ -1,0 +1,62 @@
+a{
+	text-decoration: none;
+}
+
+/*basic design*/
+.human-details{
+	height: 750px;
+	border-bottom: 2px dashed black;
+	position: relative;
+}
+
+
+.human-details h1{
+	text-align: center;
+	position: absolute;
+	color: white;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+
+
+#container {
+   width: 48px;
+   height: 48px;
+}
+
+#container img {
+   width: 100%;
+}
+
+
+/*main menu design*/
+#main-menu{
+	list-style: none;
+	position: fixed;
+	padding-top: 5px;
+	padding-left: 0;
+	z-index: 1000;
+	background-color: black;
+	width: 100%;
+	height: 6%;
+	text-align: right;
+
+}
+
+
+#main-menu li{
+	display: inline-block;
+	margin-right: 10px;
+}
+
+#main-menu li a{
+	color: white;
+}
+
+
+
+
+
+
