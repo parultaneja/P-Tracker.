@@ -39,6 +39,8 @@ In naive forecasting, the forecast for time t is the data value at time t -1. Us
 Forecasts for a single exponential smoothing analysis-
 The fitted value at time t is the smoothed value at time t-1. The forecasts are the fitted value at the forecast origin. If you forecast 10 time units ahead, the forecasted value for each time will be the fitted value at the origin. Data up to the origin are used for the smoothing.
 In naive forecasting, the forecast for time t is the data value at time t-1. Perform single exponential smoothing with a weight of one to do naive forecasting.
+
+We have done naive forcaste for SULPHOR DIOXIDE, NITROGEN DIOXIDE, MEAN VALUE OF NO2, RSPM Respirable Suspended Particulate Matter,SPM Suspended Particulate Matter and Air quality index of the biggest cities in India.  
 # Libraries Used (Prediction)
 1.	Numpy
 2.	Tensorflow
