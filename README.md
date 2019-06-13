@@ -61,7 +61,7 @@ We have done naive forcaste for SULPHOR DIOXIDE, NITROGEN DIOXIDE, MEAN VALUE OF
 
 
 # Copyright
-See (https://github.com/shivamyth/P-Tracker/blob/master/LICENSE) for details. Copyright (c) 2019
+See (https://github.com/parultaneja/P-Tracker./blob/master/LICENSE) for details. Copyright (c) 2019
 
 
 
